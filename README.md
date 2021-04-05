@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @amantrehan
+- 👀 I’m interested in bigdata tools like hadoop and spark...
+- 🌱 I’m currently learning scala and python to build the application over spark using spark core, sql and streaming services...
+- 📫 How to reach me ...
+
+<!---
+amantrehan/amantrehan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
